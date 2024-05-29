@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Science,Statistics,Machine Learning, Deep Learning And End to End projects**
 
-- 💬 Ask me about **Python, Machine Learning Algorithms, Statistics**
+- 💬 Ask me about **SQL,Python,Power BI,Advanced Excell,Machine Learning Algorithms & Statistics**
 
 - 📫 How to reach me **monishkhank1998@gmail.com**
 
