@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohd Monish</h1>
-<h3 align="center">Aspiring Data Scientist || AI Enthusiast || Machine Learning Associate</h3>
+<h3 align="center">Aspiring Data Analysis|| Bussiness Analysts ||Data Scientist || AI Enthusiast || Machine Learning Associate</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdmonish24&label=Profile%20views&color=0e75b6&style=flat" alt="mohdmonish24" /> </p>
 
-- 🌱 I’m currently learning **Data Science,Statistics,Machine Learning, Deep Learning And End to End projects**
+- 🌱 I’m currently learning **Data Analysis,Advanced Excell,SQL,Power BI,Data Science,Python,Statistics,Machine Learning & End to End projects**
 
 - 💬 Ask me about **SQL,Python,Power BI,Advanced Excell,Machine Learning Algorithms & Statistics**
 
