@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdmonish24&label=Profile%20views&color=0e75b6&style=flat" alt="mohdmonish24" /> </p>
 
-- 🌱 I’m currently learning **Data Analysis,Advanced Excell,SQL,Power BI,Data Science,Python,Statistics,Machine Learning & End to End projects**
+- 🌱 I’m currently learning **Advanced Excell,SQL,Power BI,Python,Statistics,Machine Learning & End to End projects**
 
 - 💬 Ask me about **SQL,Python,Power BI,Advanced Excell,Machine Learning Algorithms & Statistics**
 
